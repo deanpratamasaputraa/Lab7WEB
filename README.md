@@ -1,4 +1,4 @@
-# Pratikum Pemograman Web 2
+<img width="878" height="608" alt="image" src="https://github.com/user-attachments/assets/255338e1-cf63-41c2-88ac-b58678a701e9" /># Pratikum Pemograman Web 2
 ---
 ### Mata Kuliah: Pemograman Web 2
 ### Nama: Dean Pratama Saputra
@@ -72,13 +72,35 @@ kemudian buka browser untuk membuka hasilnya
 
 <img width="579" height="124" alt="image" src="https://github.com/user-attachments/assets/44cb356e-1cca-4245-b8cd-90ed17890950" />
 
+### Membuat View
+Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file baru dengan nama about.php pada direktori view (app/view/about.php) kemudian isi kodenya seperti berikut.
 
+<img width="543" height="395" alt="image" src="https://github.com/user-attachments/assets/6640f5b0-42b4-4f1b-a3bc-aa2cba835610" />
 
+Ubah method about pada class Controller Page menjadi seperti berikut:
 
+<img width="1098" height="329" alt="image" src="https://github.com/user-attachments/assets/7573670d-5fdc-43cb-839b-e8307b1caa69" />
 
+Buka browser untuk melihat hasilnya.
 
+<img width="742" height="695" alt="image" src="https://github.com/user-attachments/assets/6aaf80b3-2ecd-41bd-87d5-b9b95a01f9d8" />
 
+### Membuat Layout Web
+Buat file app/view/template/header.php
 
+<img width="878" height="608" alt="image" src="https://github.com/user-attachments/assets/b09e643f-f6e5-4490-a6a4-c4357f2e63de" />
+
+Kemudian buat file app/view/template/footer.php
+
+<img width="1390" height="709" alt="image" src="https://github.com/user-attachments/assets/83c545d2-68dc-4e88-8629-cacb06893d91" />
+
+Kemudian buka browser untuk melihat hasilnya.
+
+<img width="1914" height="941" alt="image" src="https://github.com/user-attachments/assets/af11ffcf-0412-43dd-bf8d-5e8646055080" />
+
+---
+
+### Praktikum 2:
 
 
 
